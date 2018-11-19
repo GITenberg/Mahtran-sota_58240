@@ -1,5 +1,5 @@
 _repo: Mahtran-sota_58240
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Mahtra sõda. Finnish
 contributor:
   translator:
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1945
     gutenberg_agent_id: '44783'
     url: http://www.gutenberg.org/2009/agents/44783
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Vilde, Eduard
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '49853'
     url: http://www.gutenberg.org/2009/agents/49853
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58240#Mahtran-sota
 gutenberg_issued: '2018-11-06'
 gutenberg_type: Text
 identifiers:
